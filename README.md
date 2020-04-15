@@ -4,7 +4,8 @@ An experimental script for sarcasim on sensitive word censorship.
 1. 分词 Tokenize
  
 1.x 替换首字母缩写，例如：中文 --> zw 
-Substitute to capital characters
+Substitute to capital characters 
+ 
 1.x2 敏感词替换成外语，例如: 政府 --> gov 
 Substitute to foreign languages
  
